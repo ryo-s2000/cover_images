@@ -1,1 +1,5 @@
+圧縮
 tar zcvf test.tar.gz test.txt
+
+解凍
+tar zxvf test.tar.gz
